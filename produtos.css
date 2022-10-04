@@ -2,12 +2,13 @@ header {
     background: #BBBBBB;
 }
 
-nav li {
+nav li { 
     display: inline;
-    
-}
-
-nav a {
+    marging:
+ nav a {
     text-transform: uppercase;
-    
+    color:#000000;
+    font=weight: bold;
+    fonts-size: 22px;
+    text-decoration: none;
 }
