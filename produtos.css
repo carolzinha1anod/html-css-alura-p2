@@ -5,8 +5,10 @@ header {
 nav li { 
     display: inline;
     marging:
- nav a {
-    text-transform: uppercase;
+}
+
+nav a {  
+     text-transform: uppercase;
     color:#000000;
     font=weight: bold;
     fonts-size: 22px;
